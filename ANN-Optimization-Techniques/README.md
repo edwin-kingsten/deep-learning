@@ -1,1 +1,1 @@
-This folder contains manual implementation of deep learning optimization techniques
+## This folder contains manual implementation of deep learning optimization techniques
